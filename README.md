@@ -1,4 +1,4 @@
-![version badge](https://img.shields.io/badge/Version-1.0%20Beta-yellow) ![badge php](https://img.shields.io/badge/PHP%20-%3E%205.6-brightgreen) ![badge developer](https://img.shields.io/badge/Developer-Android%20River-green) 
+![Scrutinizer code quality (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/quality/g/shiraliali/ARAuth_project/master) ![version badge](https://img.shields.io/badge/Version-1.0%20Beta-yellow) ![badge php](https://img.shields.io/badge/PHP%20-%3E%205.6-brightgreen) ![badge developer](https://img.shields.io/badge/Developer-Android%20River-green) ![licence](https://img.shields.io/badge/Licence-GPL%203.0-blue) 
 # ARAuth API Sample Project
 This is an sample script for ARAuth API which using for verifying purchases that buyer provide.
 
